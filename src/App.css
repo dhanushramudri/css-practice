@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.div1 {
+  width: 400px;
+  margin: 5% auto;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #ff00de, 0 0 30px #ff00de,
+    0 0 40px #ff00de, 0 0 55px #ff00de, 0 0 75px #ff00de;
+  height: 300px;
+  background-color: rgba(0, 128, 128, 0.166);
+  border: 1px solid red;
+}
